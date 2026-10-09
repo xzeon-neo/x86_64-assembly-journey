@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Execution Flow, MOV & JMP Instruction.md",
+                "file": "write-ups/05. Stack Pointer, Syscall, and Return Address.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. Execution Flow, MOV & JMP Instruction"
+              "title": "05. Stack Pointer, Syscall, and Return Address"
             }
           }
         ]
@@ -190,12 +190,18 @@
   },
   "active": "ce772d50d1fe1a42",
   "lastOpenFiles": [
+    "write-ups/01.register.md.md",
+    "write-ups/02. Register.md.md",
+    "write-ups/05. Stack Pointer, Syscall, and Return Address.md",
+    "write-ups/04. Execution Flow, MOV & JMP Instruction.md",
+    "Attachments/stack_pointer_push_pop.png",
+    "05. Stack Pointer, Syscall, and Return Address.md",
+    "stack_pointer_push_pop.png",
+    "Untitled",
     "Attachments/new_MOV_JMP.png",
     "04. Execution Flow, MOV & JMP Instruction.md",
-    "write-ups/02. Register.md.md",
     "write-ups/Documents.pub",
     "write-ups/Documents",
-    "write-ups/01.register.md.md",
     "02. Register.md.md",
     "02.Reg.md",
     "dOCUMENTS/REFERAL NUMBER.md",
